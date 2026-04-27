@@ -21,6 +21,7 @@
 
 ## Как запустить
 ```bash
+git clone https://github.com/Ava-sudoo/Book-Tracker.git
 
 ## Как пользоваться
 При запуске появляются строки для ввода:
